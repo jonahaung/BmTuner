@@ -11,7 +11,7 @@ import SwiftUI
 struct BmTunerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TunerView()
         }
     }
 }
